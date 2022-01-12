@@ -28,5 +28,7 @@ namespace Task_1._1._2
         }
 
         static bool SuitableParametr(int number) => number >= 0;
+
+        
     }
 }
