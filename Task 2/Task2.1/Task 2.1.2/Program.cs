@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace Eresko_Task1._1
+namespace Task_2._1._2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
+
         }
     }
 }
