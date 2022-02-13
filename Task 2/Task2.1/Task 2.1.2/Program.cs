@@ -6,8 +6,8 @@ namespace Task_2._1._2
     {
         static void Main(string[] args)
         {
-           
 
+            UI ui = new UI();
         }
     }
 }
